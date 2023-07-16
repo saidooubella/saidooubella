@@ -1,6 +1,6 @@
 ### Hello 👋 ! I am Said Oubella.
 
-A former 1337 GDSC co-lead, mobile dev core team head, Android developer and compilers enthusiast.
+A former 1337 GDSC co-lead and mobile dev core team head, Android developer and compilers enthusiast.
 
 ### Contact me:
 
